@@ -1,0 +1,15 @@
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\bin\Debug\2001216316_PhanNgocBaoVinh_Buoi1.exe.config
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\bin\Debug\2001216316_PhanNgocBaoVinh_Buoi1.exe
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\bin\Debug\2001216316_PhanNgocBaoVinh_Buoi1.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\2001216316_PhanNgocBaoVinh_Buoi1.csproj.AssemblyReference.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.Bai1TaiLop.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.Controller.HandleBaiTap1.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.Form1.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.Form2.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.InputForm.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.Properties.Resources.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\2001216316_PhanNgocBaoVinh_Buoi1.csproj.GenerateResource.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\2001216316_PhanNgocBaoVinh_Buoi1.csproj.CoreCompileInputs.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\2001216316_PhanNgocBaoVinh_Buoi1.exe
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\2001216316_PhanNgocBaoVinh_Buoi1.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.Form_Container_De_Quy.resources
