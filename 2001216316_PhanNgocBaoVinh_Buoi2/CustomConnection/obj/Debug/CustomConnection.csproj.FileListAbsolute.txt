@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\PhanNgocBaoVinh\2001216316_PhanNgocBaoVinh_Buoi2\CustomConnection\bin\Debug\CustomConnection.dll
+E:\LuuDuLieuSinhVien\PhanNgocBaoVinh\2001216316_PhanNgocBaoVinh_Buoi2\CustomConnection\bin\Debug\CustomConnection.pdb
+E:\LuuDuLieuSinhVien\PhanNgocBaoVinh\2001216316_PhanNgocBaoVinh_Buoi2\CustomConnection\obj\Debug\CustomConnection.dll
+E:\LuuDuLieuSinhVien\PhanNgocBaoVinh\2001216316_PhanNgocBaoVinh_Buoi2\CustomConnection\obj\Debug\CustomConnection.pdb

@@ -1,0 +1,4 @@
+E:\LuuDuLieuSinhVien\PhanNgocBaoVinh\2001216316_PhanNgocBaoVinh_Buoi2\CustomControl\bin\Debug\CustomControl.dll
+E:\LuuDuLieuSinhVien\PhanNgocBaoVinh\2001216316_PhanNgocBaoVinh_Buoi2\CustomControl\bin\Debug\CustomControl.pdb
+E:\LuuDuLieuSinhVien\PhanNgocBaoVinh\2001216316_PhanNgocBaoVinh_Buoi2\CustomControl\obj\Debug\CustomControl.dll
+E:\LuuDuLieuSinhVien\PhanNgocBaoVinh\2001216316_PhanNgocBaoVinh_Buoi2\CustomControl\obj\Debug\CustomControl.pdb

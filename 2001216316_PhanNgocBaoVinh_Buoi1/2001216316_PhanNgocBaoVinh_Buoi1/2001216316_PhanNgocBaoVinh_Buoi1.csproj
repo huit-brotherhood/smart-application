@@ -89,6 +89,9 @@
     <EmbeddedResource Include="Controller\HandleBaiTap1.resx">
       <DependentUpon>HandleBaiTap1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Controller\XuLyFormDeQuy.resx">
+      <DependentUpon>XuLyFormDeQuy.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

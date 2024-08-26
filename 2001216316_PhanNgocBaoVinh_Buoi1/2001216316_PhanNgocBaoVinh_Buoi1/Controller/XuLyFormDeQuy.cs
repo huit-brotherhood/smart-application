@@ -52,10 +52,7 @@ namespace _2001216316_PhanNgocBaoVinh_Buoi1.Controller
 
             foreach (Control control in controlCollection)
             {
-                if (control.GetType() == typeof(Button))
-                {
-                    continue;
-                }
+          
 
                 if (control is TextBox textBox)
                 {
@@ -69,5 +66,22 @@ namespace _2001216316_PhanNgocBaoVinh_Buoi1.Controller
             }
         }
 
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // XuLyFormDeQuy
+            // 
+            this.ClientSize = new System.Drawing.Size(282, 253);
+            this.Name = "XuLyFormDeQuy";
+            this.Load += new System.EventHandler(this.XuLyFormDeQuy_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        private void XuLyFormDeQuy_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

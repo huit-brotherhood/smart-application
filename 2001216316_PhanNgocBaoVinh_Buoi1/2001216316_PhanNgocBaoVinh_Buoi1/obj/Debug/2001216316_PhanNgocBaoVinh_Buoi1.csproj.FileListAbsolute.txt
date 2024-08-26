@@ -13,3 +13,4 @@ C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Bu
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\2001216316_PhanNgocBaoVinh_Buoi1.exe
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\2001216316_PhanNgocBaoVinh_Buoi1.pdb
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.Form_Container_De_Quy.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocBaoVinh_Buoi1\2001216316_PhanNgocBaoVinh_Buoi1\obj\Debug\_2001216316_PhanNgocBaoVinh_Buoi1.Controller.XuLyFormDeQuy.resources
