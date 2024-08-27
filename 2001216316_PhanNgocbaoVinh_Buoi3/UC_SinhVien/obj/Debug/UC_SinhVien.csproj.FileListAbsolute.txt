@@ -1,0 +1,20 @@
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\bin\Debug\UC_SinhVien.dll
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\bin\Debug\UC_SinhVien.pdb
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\bin\Debug\CustomConnection.dll
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\bin\Debug\CustomConnection.pdb
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.dll
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.pdb
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.UC_SinhVien.resources
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.csprojResolveAssemblyReference.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\bin\Debug\UC_SinhVien.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\bin\Debug\UC_SinhVien.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\bin\Debug\CustomConnection.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\bin\Debug\CustomConnection.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.csproj.AssemblyReference.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.UC_SinhVien.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.csproj.GenerateResource.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.csproj.CoreCompileInputs.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.csproj.CopyComplete
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_SinhVien\obj\Debug\UC_SinhVien.pdb

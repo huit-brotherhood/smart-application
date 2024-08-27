@@ -1,0 +1,34 @@
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\2001216316_PhanNgocbaoVinh_Buoi3.exe.config
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\2001216316_PhanNgocbaoVinh_Buoi3.exe
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\2001216316_PhanNgocbaoVinh_Buoi3.pdb
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\CustomConnection.dll
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\UC_DN.dll
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\UC_DN.pdb
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\CustomConnection.pdb
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\_2001216316_PhanNgocbaoVinh_Buoi3.Form1.resources
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\_2001216316_PhanNgocbaoVinh_Buoi3.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.exe
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.pdb
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\_2001216316_PhanNgocbaoVinh_Buoi3.SinhVien.resources
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\UC_SinhVien.dll
+E:\LuuDuLieuSinhVien\smart-application-main\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\UC_SinhVien.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\2001216316_PhanNgocbaoVinh_Buoi3.exe.config
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\2001216316_PhanNgocbaoVinh_Buoi3.exe
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\2001216316_PhanNgocbaoVinh_Buoi3.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\CustomConnection.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\UC_DN.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\UC_SinhVien.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\UC_DN.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\UC_SinhVien.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\CustomConnection.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.csproj.AssemblyReference.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\_2001216316_PhanNgocbaoVinh_Buoi3.Form1.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\_2001216316_PhanNgocbaoVinh_Buoi3.Properties.Resources.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\_2001216316_PhanNgocbaoVinh_Buoi3.SinhVien.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.csproj.GenerateResource.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.csproj.CoreCompileInputs.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.csproj.CopyComplete
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.exe
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.pdb
