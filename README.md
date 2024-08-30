@@ -1,1 +1,1 @@
-﻿# smart-app-and-sofware-development
+﻿# smart-app-and-software-development
