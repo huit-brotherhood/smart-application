@@ -56,6 +56,7 @@ namespace UC_DN
                 {
                     Flag = 0;
                     MessageBox.Show("Không thành công");
+                    sql.close();
                 }
             }
             if (SomeChanged != null)
@@ -68,8 +69,6 @@ namespace UC_DN
         {
 
         }
-        
-
-
+       
     }
 }

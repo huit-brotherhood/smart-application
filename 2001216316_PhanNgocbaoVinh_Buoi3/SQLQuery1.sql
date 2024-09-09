@@ -5,7 +5,7 @@ use db_may28
 
 go
 
-
+drop table SINHVIEN
 CREATE TABLE users (
     id INT IDENTITY(1,1) PRIMARY KEY,
     TenDN VARCHAR(20),
@@ -13,7 +13,7 @@ CREATE TABLE users (
 );
 go
 CREATE TABLE SINHVIEN(
-	mssv varchar(20),
+	mssv varchar(20) primary key,
 	TenSV nvarchar(50),
 	MaLop char(10),
 	NgaySinh nvarchar(11),

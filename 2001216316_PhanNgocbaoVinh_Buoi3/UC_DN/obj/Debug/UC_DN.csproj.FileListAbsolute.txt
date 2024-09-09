@@ -10,7 +10,6 @@ C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Bu
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_DN\bin\Debug\UC_DN.pdb
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_DN\bin\Debug\CustomConnection.dll
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_DN\bin\Debug\CustomConnection.pdb
-C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_DN\obj\Debug\UC_DN.csproj.AssemblyReference.cache
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_DN\obj\Debug\UC_DN.UC_DangNhap.resources
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_DN\obj\Debug\UC_DN.csproj.GenerateResource.cache
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\UC_DN\obj\Debug\UC_DN.csproj.CoreCompileInputs.cache
