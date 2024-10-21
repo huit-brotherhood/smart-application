@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\obj\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\obj\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.dll.config

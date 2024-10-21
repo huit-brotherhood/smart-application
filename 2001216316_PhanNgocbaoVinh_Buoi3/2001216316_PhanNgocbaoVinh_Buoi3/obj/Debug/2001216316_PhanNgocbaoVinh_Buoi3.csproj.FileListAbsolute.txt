@@ -32,3 +32,6 @@ C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Bu
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.csproj.CopyComplete
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.exe
 C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\2001216316_PhanNgocbaoVinh_Buoi3.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\Timer.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\bin\Debug\Timer.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\2001216316_PhanNgocbaoVinh_Buoi3\obj\Debug\_2001216316_PhanNgocbaoVinh_Buoi3.timechay.resources

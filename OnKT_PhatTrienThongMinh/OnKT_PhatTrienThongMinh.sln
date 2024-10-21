@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.33927.289
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnKT_PhatTrienThongMinh", "OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh.csproj", "{D6736F5E-5816-431E-AAB1-75DDA95C6241}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConnection", "DbContext\CustomConnection.csproj", "{F0A242D8-5B50-46E7-AB1A-2DBC17DCD20B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D6736F5E-5816-431E-AAB1-75DDA95C6241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6736F5E-5816-431E-AAB1-75DDA95C6241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6736F5E-5816-431E-AAB1-75DDA95C6241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A242D8-5B50-46E7-AB1A-2DBC17DCD20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A242D8-5B50-46E7-AB1A-2DBC17DCD20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A242D8-5B50-46E7-AB1A-2DBC17DCD20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A242D8-5B50-46E7-AB1A-2DBC17DCD20B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

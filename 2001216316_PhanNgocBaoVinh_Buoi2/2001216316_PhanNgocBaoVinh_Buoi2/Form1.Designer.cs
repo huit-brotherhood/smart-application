@@ -38,9 +38,10 @@
             // 
             // statusBar1
             // 
-            this.statusBar1.Location = new System.Drawing.Point(0, 310);
+            this.statusBar1.Location = new System.Drawing.Point(0, 381);
+            this.statusBar1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.statusBar1.Name = "statusBar1";
-            this.statusBar1.Size = new System.Drawing.Size(440, 17);
+            this.statusBar1.Size = new System.Drawing.Size(587, 21);
             this.statusBar1.TabIndex = 0;
             this.statusBar1.Text = "statusBar1";
             // 
@@ -68,10 +69,11 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(440, 327);
+            this.ClientSize = new System.Drawing.Size(587, 402);
             this.Controls.Add(this.statusBar1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Menu = this.mainMenu1;
             this.Name = "Form1";
             this.Text = "Form1";

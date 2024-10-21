@@ -1,0 +1,13 @@
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\bin\Debug\OnKT_PhatTrienThongMinh.exe.config
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\bin\Debug\OnKT_PhatTrienThongMinh.exe
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\bin\Debug\OnKT_PhatTrienThongMinh.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\obj\Debug\OnKT_PhatTrienThongMinh.csproj.AssemblyReference.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\obj\Debug\OnKT_PhatTrienThongMinh.Form1.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\obj\Debug\OnKT_PhatTrienThongMinh.Properties.Resources.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\obj\Debug\OnKT_PhatTrienThongMinh.csproj.GenerateResource.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\obj\Debug\OnKT_PhatTrienThongMinh.csproj.CoreCompileInputs.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\obj\Debug\OnKT_PhatTrienThongMinh.exe
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\obj\Debug\OnKT_PhatTrienThongMinh.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\bin\Debug\DbContext.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\bin\Debug\DbContext.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\OnKT_PhatTrienThongMinh\obj\Debug\OnKT_PhatTrienThongMinh.csproj.CopyComplete

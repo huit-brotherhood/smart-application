@@ -37,8 +37,8 @@
             this.uC_DangNhap1.Cnn = null;
             this.uC_DangNhap1.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.uC_DangNhap1.Flag = 0;
-            this.uC_DangNhap1.Location = new System.Drawing.Point(658, 14);
-            this.uC_DangNhap1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.uC_DangNhap1.Location = new System.Drawing.Point(81, 27);
+            this.uC_DangNhap1.Margin = new System.Windows.Forms.Padding(5);
             this.uC_DangNhap1.Name = "uC_DangNhap1";
             this.uC_DangNhap1.Size = new System.Drawing.Size(403, 286);
             this.uC_DangNhap1.TabIndex = 0;
@@ -47,9 +47,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1075, 502);
+            this.ClientSize = new System.Drawing.Size(555, 363);
             this.Controls.Add(this.uC_DangNhap1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);

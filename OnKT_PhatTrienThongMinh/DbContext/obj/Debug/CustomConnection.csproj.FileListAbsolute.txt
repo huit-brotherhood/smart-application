@@ -1,0 +1,5 @@
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\DbContext\bin\Debug\DbContext.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\DbContext\bin\Debug\DbContext.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\DbContext\obj\Debug\CustomConnection.csproj.CoreCompileInputs.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\DbContext\obj\Debug\DbContext.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\OnKT_PhatTrienThongMinh\DbContext\obj\Debug\DbContext.pdb

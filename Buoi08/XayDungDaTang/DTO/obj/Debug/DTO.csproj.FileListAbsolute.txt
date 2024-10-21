@@ -1,0 +1,12 @@
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\obj\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\obj\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.dll.config
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.dll.config
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\DTO\bin\Debug\DTO.pdb
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\DTO\obj\Debug\DTO.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\DTO\obj\Debug\DTO.pdb

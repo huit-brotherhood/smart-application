@@ -1,0 +1,21 @@
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\bin\Debug\BLL.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\bin\Debug\BLL.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\obj\Debug\BLL.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\obj\Debug\BLL.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\bin\Debug\DAL.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\bin\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\bin\Debug\DAL.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\bin\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\bin\Debug\BLL.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\bin\Debug\BLL.pdb
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\bin\Debug\DAL.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\bin\Debug\DTO.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\bin\Debug\DAL.pdb
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\bin\Debug\DTO.pdb
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\bin\Debug\DTO.dll.config
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\obj\Debug\BLL.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\BLL\obj\Debug\BLL.pdb

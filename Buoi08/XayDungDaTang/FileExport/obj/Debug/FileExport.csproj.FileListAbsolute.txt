@@ -1,0 +1,29 @@
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\FileExport.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\FileExport.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.Compression.Base.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.DocIO.Base.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.OfficeChart.Base.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.XlsIO.Base.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.Compression.Base.xml
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.DocIO.Base.xml
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.OfficeChart.Base.xml
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.XlsIO.Base.xml
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\obj\Debug\FileExport.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\obj\Debug\FileExport.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\DTO.dll
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\bin\Debug\DTO.pdb
+E:\LuuDuLieuSinhVien\Buoi07\XayDungDaTang\FileExport\obj\Debug\FileExport.csprojResolveAssemblyReference.cache
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\FileExport.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\FileExport.pdb
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\DTO.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\DTO.pdb
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\DTO.dll.config
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.DocIO.Base.xml
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.OfficeChart.Base.xml
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\obj\Debug\FileExport.csproj.AssemblyReference.cache
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\obj\Debug\FileExport.csproj.CoreCompileInputs.cache
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\obj\Debug\FileExport.csproj.CopyComplete
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\obj\Debug\FileExport.dll
+C:\Users\pv198\OneDrive\Máy tính\Buoi07\XayDungDaTang\FileExport\obj\Debug\FileExport.pdb

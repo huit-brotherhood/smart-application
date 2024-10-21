@@ -1,0 +1,11 @@
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\bin\Debug\Timer.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\bin\Debug\Timer.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\obj\Debug\Timer.Timer.resources
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\obj\Debug\Timer.csproj.CopyComplete
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\obj\Debug\Timer.dll
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\obj\Debug\Timer.pdb
+C:\TaiLieu\Phat Trien phan mem ung dung thong minh\2001216316_PhanNgocbaoVinh_Buoi3\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
